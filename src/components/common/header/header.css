@@ -1,0 +1,48 @@
+div{
+    color:#ffffff;
+	background-color:#0e8084;
+	height: 100px;   
+}
+#nav{
+    font-size: 20px;
+
+}
+#logo{
+    font-size:30px;
+    position:absolute;
+    top:70px;
+    font-family:cursive;
+    
+}
+#si{
+    position:absolute;
+    right:180px;
+    top:20px;
+    color: #FFFFFF;
+}
+#ab{
+    position:absolute;
+    right:300px;
+    top:20px;
+    color: #FFFFFF;
+}
+#cn{
+    position:absolute;
+    right:450px;
+    top:20px;
+    color: #FFFFFF;
+}
+#home{
+    position:absolute;
+    right:600px;
+    top:20px;
+    color: #FFFFFF;
+}
+
+#hj{
+    position: relative;
+    align-content: center;
+    font-family: cursive;
+    font-size: 20px;
+    color: #FFFFFF;
+}
